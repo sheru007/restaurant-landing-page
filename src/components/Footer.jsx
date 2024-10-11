@@ -19,25 +19,25 @@ const Footer = () => {
           <nav className=" flex flex-col gap-2">
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Dishes
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               About
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Menu
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Reviews
             </a>
@@ -48,13 +48,13 @@ const Footer = () => {
           <nav className=" flex flex-col gap-2">
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Our Dishes
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Premium Menu
             </a>
@@ -65,19 +65,19 @@ const Footer = () => {
           <nav className=" flex flex-col gap-2">
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               FoodieWeb@email.com
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
-              +64 958 248 966
+              +91 993857XXXX
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
-              href="/"
+              href="#"
             >
               Social media
             </a>
@@ -88,7 +88,7 @@ const Footer = () => {
         <p>
           <p className=" text-center py-4">
             @copyright developed by
-            <span className=" text-brightColor"> champion programmers</span> |
+            <span className=" text-brightColor"> sheru khan</span> |
             All rights reserved
           </p>
         </p>
